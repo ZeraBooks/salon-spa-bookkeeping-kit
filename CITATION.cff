@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Salon and spa bookkeeping kit"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/salon-spa-bookkeeping-kit"
+repository-code: "https://github.com/ZeraBooks/salon-spa-bookkeeping-kit"
+license: CC-BY-4.0
+abstract: "Bookkeeping for a salon or spa keeps card tips as money owed to staff, books booth rent as income, separates retail product sales from services, holds gift cards as a liability until they are used, and grosses each card deposit back up before processor fees. This kit has the accounts, a checklist and a worked month that ties."
+keywords:
+  - bookkeeping
+  - salon
+  - spa
+  - chart-of-accounts
+  - small-business
+  - accounting
+  - month-end-close
+date-released: 2026-11-04

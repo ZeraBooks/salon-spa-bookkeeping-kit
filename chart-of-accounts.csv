@@ -1,0 +1,28 @@
+Number,Name,Type,Detail,Notes
+1010,Operating checking,Asset,Bank,Card processor deposits and cash deposits land here
+1020,Cash drawer,Asset,Cash on hand,Cash taken at the front desk and not yet deposited
+1200,Retail inventory,Asset,Inventory,Product bought to resell. Optional on cash basis; use it if you count the retail wall
+2010,Accounts payable,Liability,Payable,Distributor and supplier invoices not yet paid
+2100,Tips payable,Liability,Current liability,"Card tips collected, waiting to be paid to staff through payroll. Should net to zero after each payroll"
+2150,Gift cards and packages outstanding,Liability,Current liability,"Sold, not yet redeemed. Becomes revenue when the service is used"
+2200,Sales tax payable,Liability,Current liability,Tax collected on retail and any taxable services
+2300,Payroll liabilities,Liability,Current liability,"Withholdings and employer taxes, from the payroll report"
+2400,Business credit card,Liability,Credit card,"The payment from checking is a transfer, not an expense"
+3010,Owner capital,Equity,Owner equity,
+3020,Owner draws,Equity,Owner equity,
+3900,Retained earnings,Equity,Owner equity,
+4010,Service revenue,Income,Revenue,"Cuts, color, treatments, massage, nails. Spas often add one account per service line"
+4020,Retail sales,Income,Revenue,Product sold to clients
+4030,Booth and room rent income,Income,Revenue,Rent from independent renters
+4040,Gift card and package redemptions,Income,Revenue,Optional. Services paid for earlier with a gift card or package
+5010,Cost of retail products,Cost of goods sold,Cost of sales,Product bought for resale
+6010,Salon supplies (backbar),Expense,Operating expense,"Color, developer, disposables, towels and laundry used on clients"
+6100,Wages and commissions,Expense,Payroll,Gross pay from the payroll report
+6110,Payroll taxes,Expense,Payroll,Employer share from the payroll report
+6200,Merchant fees,Expense,Operating expense,Card processor and booking app payment fees
+6300,Rent,Expense,Occupancy,
+6310,Utilities,Expense,Occupancy,
+6400,Booking software,Expense,Operating expense,
+6500,Insurance,Expense,Operating expense,
+6600,Education and training,Expense,Operating expense,
+6700,Accounting and payroll fees,Expense,Operating expense,

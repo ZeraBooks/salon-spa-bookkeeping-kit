@@ -1,0 +1,13 @@
+Line,Amount,Account,In profit
+"Card sales, services",28400.00,Service revenue,Yes
+"Card sales, retail product",3600.00,Retail sales,Yes
+Cash services deposited,1850.00,Service revenue,Yes
+"Booth rent, 3 renters at 900.00",2700.00,Booth and room rent income,Yes
+Card tips collected,4200.00,Tips payable,No
+Card tips paid out in payroll,-4200.00,Tips payable,No
+Processor fees on 36200.00 of card volume,-1013.60,Merchant fees,Yes
+Retail restock,-1450.00,Cost of retail products,Yes
+Backbar color and supplies,-960.00,Salon supplies (backbar),Yes
+"Stylist wages and commissions, gross",-14300.00,Wages and commissions,Yes
+Employer payroll taxes,-1093.95,Payroll taxes,Yes
+Rent,-4500.00,Rent,Yes
