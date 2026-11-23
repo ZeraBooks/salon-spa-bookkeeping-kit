@@ -82,7 +82,7 @@ packages and memberships work the same way.
 
 ## Learn more
 
-Full guide: [Bookkeeping for salons and spas](https://www.zerabooks.com/bookkeeping-for-salons-and-spas). Related: [ZeraBooks](https://www.zerabooks.com/), accounting software that does your books for you, with free setup and a free catch-up of your past months.
+Full guide: [Bookkeeping for salons and spas](https://www.zerabooks.com/bookkeeping-for-salons-and-spas). Related: [ZeraBooks](https://www.zerabooks.com/), AI bookkeeping software that runs your books. Catch-up of past months is included: you upload the statements and ZeraBooks does them.
 
 ## License
 
